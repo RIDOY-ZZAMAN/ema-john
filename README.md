@@ -1,7 +1,7 @@
 # Ema-John Project
 live site link: https://hungry-wiles-ca5f35.netlify.app/
 # Main Functionallity
-#### .Demo online Shop
-#### .Search products
-#### .save to local storage
+#### 1.Demo online Shop
+#### 2.Search products
+#### 3.save to local storage
 
